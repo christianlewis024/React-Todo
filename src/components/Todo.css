@@ -1,0 +1,12 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.app {
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+  width: 50%;
+  padding: 5%;
+  margin-top: 10%;
+}
